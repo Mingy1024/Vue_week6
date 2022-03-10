@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="text-center">
+    <div class="text-center my-4">
       <h2>購物車</h2>
     </div>
     <div class="text-end">

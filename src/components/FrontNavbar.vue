@@ -28,6 +28,7 @@
             <router-link class="nav-link" to="/admin">後台</router-link>
           </li>
         </ul>
+        <router-link to="/login" class="btn btn-light me-2">後台登入</router-link>
         <router-link :to="`/cart`" class="btn btn-warning position-relative">
           <svg
             xmlns="http://www.w3.org/2000/svg"

@@ -34,6 +34,7 @@
           </p>
           <p>元 /{{ product.unit }}</p>
         </div>
+        <router-link to="/products" class="btn btn-lg btn-secondary btn-block me-2" type="button">返回</router-link>
       </div>
     </div>
     <template v-for="(pic, key) in product.imagesUrl" :key="key">
